@@ -15,7 +15,7 @@
     "less": "^2.5.1",
     "react-tools": "^0.13.3",
     "semantic-ui-less": "^2.4.1",
-    "socket.io": "^1.7.4"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {},
   "scripts": {
