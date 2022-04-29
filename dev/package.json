@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
-    "async": "^1.0.0",
+    "async": "^2.6.4",
     "babel-core": "^6.26.3",
     "chokidar": "^1.0.1",
     "colors": "^1.1.0",
